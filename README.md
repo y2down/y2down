@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Y2Down
 
-<!--
-**y2down/y2down** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, efficient web projects and productivity tools, focusing on smooth and user-friendly experiences.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **💻 Web Development:** HTML, CSS, JavaScript, Responsive Design  
+- **🧩 Software Engineering:** Object-Oriented Programming, Data Structures, Algorithms, Version Control (Git), REST APIs  
+- **⚙️ Tools & Productivity:** VS Code, GitHub, Node.js, NPM  
+- **📂 Curated Projects:** Project organization, documentation, and reusable code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [🌐 Personal Portfolio](https://github.com/y2down/personal-portfolio) – Showcase of professional front-end design.  
+- [📋 Daily Task Tracker](https://github.com/y2down/daily-task-tracker) – Task management app with filters, localStorage, and user-friendly features.  
+- [📚 Awesome Resources](https://github.com/y2down/awesome-resources) – Curated list of web tools, tutorials, and productivity resources.
+
+## 📫 Links
+- [🌐 Website](https://www.y2down.app/)  
+- [💼 Twitter](https://x.com/y2down/)   
+
+---
+
+### 🌟 Fun Fact
+I enjoy building tools and software that make life easier and more productive for everyone.  
